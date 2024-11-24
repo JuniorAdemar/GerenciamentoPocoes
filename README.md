@@ -1,4 +1,4 @@
-# GerenciamentoPocoes
+# Sistema de Gerenciamento de Poções de Alquimia
 Integrantes do Grupo: Ademar Simon Júnior
 
 Menu Principal: Ao iniciar o programa, você verá o seguinte menu:
